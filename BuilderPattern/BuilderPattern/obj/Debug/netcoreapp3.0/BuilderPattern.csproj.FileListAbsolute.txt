@@ -1,0 +1,11 @@
+D:\Calismalar\Patterns\DesignPatterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.0\BuilderPattern.exe
+D:\Calismalar\Patterns\DesignPatterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.0\BuilderPattern.deps.json
+D:\Calismalar\Patterns\DesignPatterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.0\BuilderPattern.runtimeconfig.json
+D:\Calismalar\Patterns\DesignPatterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.0\BuilderPattern.runtimeconfig.dev.json
+D:\Calismalar\Patterns\DesignPatterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.0\BuilderPattern.dll
+D:\Calismalar\Patterns\DesignPatterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.0\BuilderPattern.pdb
+D:\Calismalar\Patterns\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.0\BuilderPattern.csprojAssemblyReference.cache
+D:\Calismalar\Patterns\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.0\BuilderPattern.AssemblyInfoInputs.cache
+D:\Calismalar\Patterns\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.0\BuilderPattern.AssemblyInfo.cs
+D:\Calismalar\Patterns\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.0\BuilderPattern.dll
+D:\Calismalar\Patterns\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.0\BuilderPattern.pdb
